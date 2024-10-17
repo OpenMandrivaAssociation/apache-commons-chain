@@ -6,7 +6,7 @@ Version:       1.2
 Release:       8.0%{?dist}
 Summary:       An implementation of the GoF Chain of Responsibility pattern
 License:       ASL 2.0
-URL:           http://commons.apache.org/%{base_name}/
+URL:           https://commons.apache.org/%{base_name}/
 Source0:       ftp://ftp.gbnet.net/pub/apache/dist/commons/%{base_name}/source/%{short_name}-%{version}-src.tar.gz
 # javax.servlet 3.0 api support
 Patch0:        %{name}-%{version}-tests-servlet30.patch
